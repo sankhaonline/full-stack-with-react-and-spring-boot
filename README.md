@@ -1,1 +1,1 @@
-# full-stack-with-react-and-spring-boot
+# Full Stack Application with React and Spring Boot
